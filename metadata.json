@@ -1,0 +1,8 @@
+{
+  "name": "TeXHub",
+  "description": "Comprehensive suite of tools for LaTeX generation including Math OCR, dataset to table conversion, matrix building, algorithm pseudo-code, and document formatting. Built for researchers and data scientists.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
